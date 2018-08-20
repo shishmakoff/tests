@@ -65,6 +65,11 @@ function searchCategory($categories, $id)
         return false;
         
     }
+    else{
+		
+		return $title;
+        
+	}
 
 }
 
